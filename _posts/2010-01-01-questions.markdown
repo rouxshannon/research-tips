@@ -3,6 +3,7 @@ layout: post
 title:  "Start with your Questions"
 date:   2010-01-01
 description: Before you search, start by brainstorming a list of questions.
+web-thumbnail: /assets/img/web-thumbnails/question-map-examples.jpg
 handout: /assets/handouts/questions.pdf
 handout-thumbail: /assets/handouts/thumbnails/questions-tn.png
 category: Getting Started

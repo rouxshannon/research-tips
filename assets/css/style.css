@@ -58,6 +58,25 @@ samp {
     float: right;
 }
 
+.card.horizontal .card-image {
+  max-width: 25%;
+}
+
+/*
+@media (min-width: 320px) {
+.card.horizontal .card-image {
+  max-width: 100%;
+}
+}
+
+@media (max-width: 319px) {
+  .card.horizontal .card-image {
+  width: 100%;
+}
+}
+*/
+
+
 
 /* heading improvements? */
 

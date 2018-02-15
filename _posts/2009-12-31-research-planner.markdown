@@ -2,7 +2,8 @@
 layout: post
 title:  "Research Paper Planner"
 date:   2009-12-31
-description: Break down your assigment and stay on top of deadlines with this useful planner! 
+description: Break down your assigment and stay on top of deadlines with this useful planner!
+web-thumbnail: /assets/img/web-thumbnails/np_checklist_450368_2C83C1.png
 handout: /assets/handouts/research-paper-planner-d2.pdf
 handout-thumbail: /assets/handouts/thumbnails/research-paper-planner-2-tn.png
 category: Getting Started
