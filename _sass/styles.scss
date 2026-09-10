@@ -1,0 +1,28 @@
+// Import Core Clean Blog SCSS
+@import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
+
+.site-announcement {
+  background-color: #f2dede;
+  color: #7a1f1f;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 550;
+  line-height: 1.5;
+  padding: 0.5rem 3rem;
+  position: relative;
+  z-index: 1000;
+}
+
+.site-announcement a {
+  color: #8b1e3f;
+  text-decoration: underline;
+}
+.site-announcement a:hover,
+.site-announcement a:focus {
+  color: #5c1028;
+}
+
+#mainNav {
+  position: relative;
+  z-index: 1030;
+}
